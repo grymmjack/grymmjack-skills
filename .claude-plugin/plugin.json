@@ -1,0 +1,14 @@
+{
+  "name": "grymmjack-skills",
+  "skills": [
+    "./skills/engineering/env-browser",
+    "./skills/productivity/task-loop",
+    "./skills/productivity/learn-anything",
+    "./skills/productivity/xmind-mindmap",
+    "./skills/productivity/summarize",
+    "./skills/productivity/html-to-pdf",
+    "./skills/productivity/find-audio-on-disk",
+    "./skills/productivity/open-scratchpad",
+    "./skills/productivity/add-scratchpad-to-workspace"
+  ]
+}

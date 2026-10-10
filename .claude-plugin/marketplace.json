@@ -1,0 +1,16 @@
+{
+  "name": "grymmjack",
+  "owner": {
+    "name": "grymmjack"
+  },
+  "metadata": {
+    "description": "grymmjack's own agent skills."
+  },
+  "plugins": [
+    {
+      "name": "grymmjack-skills",
+      "source": "./",
+      "description": "grymmjack's engineering and productivity skills: task-loop, learn-anything, xmind-mindmap, env-browser, and more."
+    }
+  ]
+}

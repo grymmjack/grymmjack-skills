@@ -1,0 +1,16 @@
+{
+  "name": "xmind-mindmap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate real .xmind mind maps (and SVG/PNG/PDF renders) from a hierarchical topic tree.",
+  "type": "commonjs",
+  "bin": {
+    "generate-xmind": "./scripts/generate-xmind.js"
+  },
+  "scripts": {
+    "generate": "node scripts/generate-xmind.js"
+  },
+  "dependencies": {
+    "xmind": "^2.2.33"
+  }
+}

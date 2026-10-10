@@ -1,0 +1,46 @@
+{
+  "title": "🌱 Photosynthesis",
+  "theme": "snowbrush",
+  "layout": "multi",
+  "children": [
+    {
+      "title": "Inputs",
+      "children": [
+        { "title": "Sunlight (photons)" },
+        { "title": "Water (H₂O) — via roots" },
+        { "title": "Carbon dioxide (CO₂) — via stomata" }
+      ]
+    },
+    {
+      "title": "Machinery",
+      "children": [
+        { "title": "Chloroplast", "children": [
+          { "title": "Thylakoid membranes" },
+          { "title": "Stroma" }
+        ] },
+        { "title": "Chlorophyll a / b" },
+        { "title": "Photosystems I & II" }
+      ]
+    },
+    {
+      "title": "Two Stages",
+      "children": [
+        { "title": "Light-dependent reactions", "children": [
+          { "title": "Splits water → O₂" },
+          { "title": "Makes ATP + NADPH" }
+        ] },
+        { "title": "Calvin cycle (light-independent)", "children": [
+          { "title": "Fixes CO₂" },
+          { "title": "Builds glucose (G3P)" }
+        ] }
+      ]
+    },
+    {
+      "title": "Outputs",
+      "children": [
+        { "title": "Glucose (C₆H₁₂O₆)" },
+        { "title": "Oxygen (O₂)" }
+      ]
+    }
+  ]
+}
